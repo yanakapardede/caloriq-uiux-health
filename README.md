@@ -240,7 +240,7 @@ git clone https://github.com/yanakapardede/caloriq-uiux-health.git
 Masuk ke direktori proyek:
 
 ```bash
-cd caloriq-uiux-health-calorie-app
+cd caloriq-uiux-health
 ```
 
 Buka dokumen dan aset proyek menggunakan aplikasi yang sesuai:
